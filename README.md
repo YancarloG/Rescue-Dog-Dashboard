@@ -15,7 +15,7 @@ This project is a web-based dashboard designed for Grazioso Salvare, an internat
 - **Breed Breakdown**: A pie chart illustrating the distribution of breeds according to the selected rescue type.
 
 ### Screenshots:
-*Include screenshots of the dashboard here.*
+*Images Can be seen in the Docx file in main*
 
 ## Tools and Technology
 
